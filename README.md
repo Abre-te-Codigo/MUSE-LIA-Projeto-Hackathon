@@ -3,8 +3,7 @@ A Museália é uma plataforma que reúne diversos catálogos e acervos de museus
 
 ## Link solução
 - [https://github.com/ailtonvivaz/abra-te-codigo](https://github.com/ailtonvivaz/abra-te-codigo)
-- []()
 
 ## Vídeos 
-- [https://youtu.be/mG2apRDo_r8](https://youtu.be/mG2apRDo_r8)
-- [https://www.youtube.com/watch?v=_EsH8hD5UWQ&feature=youtu.be](https://www.youtube.com/watch?v=_EsH8hD5UWQ&feature=youtu.be)
+- Pitch [https://youtu.be/mG2apRDo_r8](https://youtu.be/mG2apRDo_r8)
+- Demo [https://www.youtube.com/watch?v=_EsH8hD5UWQ](https://www.youtube.com/watch?v=_EsH8hD5UWQ)
